@@ -1,4 +1,4 @@
-Hi 👋 My name is Lisa Baig
+Hi there! 👋 I'm Lisa Baig
 ==========================
 
 Full-Stack Web Developer
