@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi 👋 My name is Lisa Baig
+==========================
 
-<!--
-**LeezaJee/LeezaJee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Web Developer
+------------------------
 
-Here are some ideas to get you started:
+After working in Customer Service for 3 years, I am switching careers to become a Full-Stack Web Developer with CareerFoundry now.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Berlin
+* 🖥️  See my portfolio at [My Portfolio](http://leezajee.github.io/portfolio.website/)
+* ✉️  You can contact me at [lisa.baig@outlook.com](mailto:lisa.baig@outlook.com)
+* 🚀  I'm currently working on [Pokedex with JavaScript & Bootstrap](http://leezajee.github.io/Pokedex/)
+* 🧠  I'm learning server-side programming & Node.js
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  I speak German, English, Hindi, Urdu and Punjabi
