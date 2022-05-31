@@ -9,7 +9,7 @@ After working in Customer Service for 3 years, I am switching careers to become 
 * 🌍  I'm based in Berlin
 * 🖥️  See my portfolio at [My Portfolio](http://leezajee.github.io/portfolio.website/)
 * ✉️  You can contact me at [lisa.baig@outlook.com](mailto:lisa.baig@outlook.com)
-* 🚀  I'm currently working on [Pokedex with JavaScript & Bootstrap](http://leezajee.github.io/Pokedex/)
-* 🧠  I'm learning server-side programming & Node.js
+* 🚀  I'm currently working on [a React client-side of a self-written movie API](https://github.com/LeezaJee/bolly-flix-client)
+* 🧠  I'm learning React right now
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I speak German, English, Hindi, Urdu and Punjabi
+* ⚡  Fun Fact: I speak German, English, Hindi, Urdu and Punjabi
